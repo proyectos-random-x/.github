@@ -4,6 +4,7 @@
  - [Ferrovías demo](https://github.com/proyectos-random-x/Ferrovias), nuevo aspecto
  - [Juego del Ahorcado](https://github.com/proyectos-random-x/ahorcado), el clásico juego
  - [Encriptadores](https://github.com/proyectos-random-x/encriptadores), 3 modos para encriptar y desencriptar
+ - [Barbería](https://github.com/proyectos-random-x/barberia)
 
 <!--
 
