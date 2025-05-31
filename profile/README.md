@@ -5,6 +5,7 @@
  - [Juego del Ahorcado](https://github.com/proyectos-random-x/ahorcado), el clásico juego
  - [Encriptadores](https://github.com/proyectos-random-x/encriptadores), 3 modos para encriptar y desencriptar
  - [Barbería](https://github.com/proyectos-random-x/barberia)
+ - [OnePageCV](https://github.com/proyectos-random-x/OnePageCV), Un portfolio personal minimalista y profesional que funciona como CV online de una sola página.
 
 <!--
 
