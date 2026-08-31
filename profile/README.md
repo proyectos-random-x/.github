@@ -16,13 +16,6 @@ Incluye proyectos realizados con:
 
 ## 🚀 Proyectos destacados
 
-### Ferrovías Demo
-Rediseño conceptual moderno del sitio de Ferrovías, enfocado en mejorar presentación y experiencia visual.
-
-🔗 https://github.com/proyectos-random-x/Ferrovias
-
----
-
 ### Juego del Ahorcado
 Implementación del clásico juego del ahorcado utilizando JavaScript y manipulación del DOM.
 
